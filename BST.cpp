@@ -52,7 +52,7 @@ void Node:: FindNode(Node* root, int value)
 	if (root->data < value)
 		FindNode(root->right, value);
 	else if (root->data > value)
-		FindNode(root->right, value);
+		FindNode(root->left, value);
 	else if (root->data == value)
 		cout << "it exist" << endl;
 }
