@@ -4,6 +4,6 @@ build the program and run it.
 
 ## algs:
 ```text 
-1) Binary search tree -> preorder, inorder, postprder
-2) Bellmanford
+1) BST.cpp => Binary search tree -> preorder, inorder, postprder
+2) Bellmanford => Bellmanford
 ```
