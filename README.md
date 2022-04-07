@@ -4,6 +4,6 @@ build the program and run it.
 
 ## algs:
 ```text 
-Binary search tree -> preorder, inorder, postprder
-Bellmanford
+1) Binary search tree -> preorder, inorder, postprder
+2) Bellmanford
 ```
