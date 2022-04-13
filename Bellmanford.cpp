@@ -66,7 +66,7 @@ Graph* Graph::Create(int _V, int _E)
 	//v2-->v1
 	g->edge[3].src = 2;
 	g->edge[3].target = 1;
-	g->edge[3].weight = -4;
+	g->edge[3].weight = 4;
 	//v1-->v4
 	g->edge[4].src = 1;
 	g->edge[4].target = 4;
@@ -82,7 +82,7 @@ Graph* Graph::Create(int _V, int _E)
 	//v3-->v4
 	g->edge[7].src = 3;
 	g->edge[7].target = 4;
-	g->edge[7].weight = -1;
+	g->edge[7].weight = 1;
 	//v4-->v5
 	g->edge[8].src = 4;
 	g->edge[8].target = 5;
@@ -94,7 +94,7 @@ Graph* Graph::Create(int _V, int _E)
 	//v6-->v0
 	g->edge[10].src = 6;
 	g->edge[10].target = 0;
-	g->edge[10].weight = -3;
+	g->edge[10].weight = 3;
 
 
 	/**
