@@ -1,5 +1,5 @@
 # CPP_algos
-code for demonstrating graphs searching algorithms, build the program and run it.
+codes of algorithms that are useful to be familiear with.
 
 ## algs:
 ```text 
